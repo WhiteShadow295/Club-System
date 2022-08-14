@@ -1,0 +1,16 @@
+Monthly Report For 04-2022
+=============================
+Facility		        Venue    		Opening Hours
+-----------------------------------------------------
+Swimming Pool           Block B         800-1800
+Karaoke                 Main Block      1500-100
+Karaoke                 Block A         1500-100
+Dancing Room            Block A         1200-2200
+Dancing Room            Main Block      1200-2200
+Basketball Court        Main Block      1200-2200
+Basketball Court        Block D         1200-2000
+Archery Range           Block B         1000-1900
+Archery Range           Block D         1000-1900
+Meeting Room            Block D         800-2000
+Ken                     Block B         0800-1200
+Total Facility: 11
